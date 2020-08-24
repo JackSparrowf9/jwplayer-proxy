@@ -1,0 +1,43 @@
+[
+{
+    "domain": ".drive.google.com",
+    "hostOnly": false,
+    "httpOnly": true,
+    "name": "DRIVE_STREAM",
+    "path": "/",
+    "sameSite": "no_restriction",
+    "secure": true,
+    "session": true,
+    "storeId": "1",
+    "value": "SOCJIeSF3aU",
+    "id": 1
+},
+{
+    "domain": ".google.com",
+    "expirationDate": 1593836533,
+    "hostOnly": false,
+    "httpOnly": false,
+    "name": "1P_JAR",
+    "path": "/",
+    "sameSite": "unspecified",
+    "secure": true,
+    "session": false,
+    "storeId": "1",
+    "value": "2020-6-4-4",
+    "id": 2
+},
+{
+    "domain": ".google.com",
+    "expirationDate": 1607055731.651875,
+    "hostOnly": false,
+    "httpOnly": true,
+    "name": "NID",
+    "path": "/",
+    "sameSite": "no_restriction",
+    "secure": true,
+    "session": false,
+    "storeId": "1",
+    "value": "204=cQ_MjfzhYO5Jfh1EbuNyMNMCIQmmPZmGqnxV7r89EbdYvG8DIEup21t9NcKUoBNrb9Z7phkcUEhjxy5Qk_puZHcbZxv2COTI_U7Jt2SjCEIpOBxin3LqcXBMtSdjw9XbBoPADXw8YXL13nuUL6e6capWGsnF9pQktPwLB-2ePZ0",
+    "id": 3
+}
+]
